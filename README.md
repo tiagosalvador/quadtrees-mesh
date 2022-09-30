@@ -6,10 +6,10 @@ This repo contains code for the paper [Higher-order Adaptive Finite Difference M
 The script `example_meshes.m` illustrates the wide range of different meshes that can be created. It displays the following meshes.
   
 <p align="center">
-<img align="middle" src="http://www.math.lsa.umich.edu/~saldanha/circle.png" width="200" height="150" />
-<img align="middle" src="http://www.math.lsa.umich.edu/~saldanha/ellipse.png" width="200" height="150" />
-<img align="middle" src="http://www.math.lsa.umich.edu/~saldanha/diammond_stretched.png" width="200" height="150" />
-<img align="middle" src="http://www.math.lsa.umich.edu/~saldanha/clover.png" width="200" height="150" />
+<img align="middle" src="assets/circle.png" width="200" height="150" />
+<img align="middle" src="assets/ellipse.png" width="200" height="150" />
+<img align="middle" src="assets/diammond_stretched.png" width="200" height="150" />
+<img align="middle" src="assets/clover.png" width="200" height="150" />
 </p>
 
 The script `example_MA.m` contains an example on how to call the solvers for the Monge-Ampere equation with both the monotone scheme and the filtered scheme.
